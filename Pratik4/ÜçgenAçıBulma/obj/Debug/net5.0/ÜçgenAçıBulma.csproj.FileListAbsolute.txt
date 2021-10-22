@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\bin\Debug\net5.0\ÜçgenAçıBulma.exe
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\bin\Debug\net5.0\ÜçgenAçıBulma.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\bin\Debug\net5.0\ÜçgenAçıBulma.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\bin\Debug\net5.0\ÜçgenAçıBulma.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\bin\Debug\net5.0\ÜçgenAçıBulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\bin\Debug\net5.0\ref\ÜçgenAçıBulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\bin\Debug\net5.0\ÜçgenAçıBulma.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ÜçgenAçıBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ÜçgenAçıBulma.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ÜçgenAçıBulma.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ÜçgenAçıBulma.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ÜçgenAçıBulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ref\ÜçgenAçıBulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ÜçgenAçıBulma.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\ÜçgenAçıBulma\obj\Debug\net5.0\ÜçgenAçıBulma.genruntimeconfig.cache

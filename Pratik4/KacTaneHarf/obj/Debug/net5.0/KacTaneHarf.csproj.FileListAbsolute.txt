@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\bin\Debug\net5.0\KacTaneHarf.exe
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\bin\Debug\net5.0\KacTaneHarf.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\bin\Debug\net5.0\KacTaneHarf.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\bin\Debug\net5.0\KacTaneHarf.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\bin\Debug\net5.0\KacTaneHarf.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\bin\Debug\net5.0\ref\KacTaneHarf.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\bin\Debug\net5.0\KacTaneHarf.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\KacTaneHarf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\KacTaneHarf.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\KacTaneHarf.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\KacTaneHarf.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\KacTaneHarf.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\ref\KacTaneHarf.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\KacTaneHarf.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\KacTaneHarf\obj\Debug\net5.0\KacTaneHarf.genruntimeconfig.cache

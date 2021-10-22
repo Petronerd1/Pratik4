@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\bin\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.exe
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\bin\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\bin\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\bin\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\bin\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\bin\Debug\net5.0\ref\KaçBasamaklıOlduğunu Bulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\bin\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\ref\KaçBasamaklıOlduğunu Bulma.dll
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\KaçBasamaklıOlduğunu Bulma\obj\Debug\net5.0\KaçBasamaklıOlduğunu Bulma.genruntimeconfig.cache

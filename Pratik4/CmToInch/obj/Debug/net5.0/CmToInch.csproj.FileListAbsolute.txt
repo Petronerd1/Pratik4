@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\bin\Debug\net5.0\CmToInch.exe
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\bin\Debug\net5.0\CmToInch.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\bin\Debug\net5.0\CmToInch.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\bin\Debug\net5.0\CmToInch.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\bin\Debug\net5.0\CmToInch.dll
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\bin\Debug\net5.0\ref\CmToInch.dll
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\bin\Debug\net5.0\CmToInch.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.dll
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\ref\CmToInch.dll
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\CmToInch\obj\Debug\net5.0\CmToInch.genruntimeconfig.cache

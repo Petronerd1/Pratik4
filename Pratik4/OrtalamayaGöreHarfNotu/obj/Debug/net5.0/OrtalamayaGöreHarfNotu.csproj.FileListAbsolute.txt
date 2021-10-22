@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\bin\Debug\net5.0\OrtalamayaGöreHarfNotu.exe
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\bin\Debug\net5.0\OrtalamayaGöreHarfNotu.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\bin\Debug\net5.0\OrtalamayaGöreHarfNotu.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\bin\Debug\net5.0\OrtalamayaGöreHarfNotu.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\bin\Debug\net5.0\OrtalamayaGöreHarfNotu.dll
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\bin\Debug\net5.0\ref\OrtalamayaGöreHarfNotu.dll
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\bin\Debug\net5.0\OrtalamayaGöreHarfNotu.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\OrtalamayaGöreHarfNotu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\OrtalamayaGöreHarfNotu.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\OrtalamayaGöreHarfNotu.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\OrtalamayaGöreHarfNotu.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\OrtalamayaGöreHarfNotu.dll
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\ref\OrtalamayaGöreHarfNotu.dll
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\OrtalamayaGöreHarfNotu.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\OrtalamayaGöreHarfNotu\obj\Debug\net5.0\OrtalamayaGöreHarfNotu.genruntimeconfig.cache

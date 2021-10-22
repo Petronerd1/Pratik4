@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\bin\Debug\net5.0\KDV.exe
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\bin\Debug\net5.0\KDV.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\bin\Debug\net5.0\KDV.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\bin\Debug\net5.0\KDV.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\bin\Debug\net5.0\KDV.dll
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\bin\Debug\net5.0\ref\KDV.dll
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\bin\Debug\net5.0\KDV.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.dll
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\ref\KDV.dll
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\PermütasyonKombinasyon\obj\Debug\net5.0\KDV.genruntimeconfig.cache

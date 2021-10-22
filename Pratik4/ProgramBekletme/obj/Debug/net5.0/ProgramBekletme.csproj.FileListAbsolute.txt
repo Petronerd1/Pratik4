@@ -1,0 +1,16 @@
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\bin\Debug\net5.0\ProgramBekletme.exe
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\bin\Debug\net5.0\ProgramBekletme.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\bin\Debug\net5.0\ProgramBekletme.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\bin\Debug\net5.0\ProgramBekletme.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\bin\Debug\net5.0\ProgramBekletme.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\bin\Debug\net5.0\ref\ProgramBekletme.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\bin\Debug\net5.0\ProgramBekletme.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.csproj.AssemblyReference.cache
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ref\ProgramBekletme.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\ProgramBekletme\obj\Debug\net5.0\ProgramBekletme.genruntimeconfig.cache

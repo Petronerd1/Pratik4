@@ -1,0 +1,15 @@
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\bin\Debug\net5.0\ParkingFee.exe
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\bin\Debug\net5.0\ParkingFee.deps.json
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\bin\Debug\net5.0\ParkingFee.runtimeconfig.json
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\bin\Debug\net5.0\ParkingFee.runtimeconfig.dev.json
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\bin\Debug\net5.0\ParkingFee.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\bin\Debug\net5.0\ref\ParkingFee.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\bin\Debug\net5.0\ParkingFee.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ParkingFee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ParkingFee.AssemblyInfoInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ParkingFee.AssemblyInfo.cs
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ParkingFee.csproj.CoreCompileInputs.cache
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ParkingFee.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ref\ParkingFee.dll
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ParkingFee.pdb
+C:\Users\ULAŞ\source\repos\Pratik4\ParkingFee\obj\Debug\net5.0\ParkingFee.genruntimeconfig.cache
